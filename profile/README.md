@@ -4,6 +4,6 @@ Canopy IIIF is purely IIIF sourced site generator using Next.js. Canopy is an ap
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/canopy-iiif/canopy-iiif)
 
-- [Demo (Vercel)](https://canopy-iiif.vercel.app/)
 - [Demo (Static)](https://canopy-iiif.github.io/canopy-iiif/)
+- [Demo (Vercel)](https://canopy-iiif.vercel.app/)
 - [Documentation](https://canopy-iiif.github.io/docs/)
