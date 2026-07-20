@@ -2,8 +2,9 @@
 
 Create fast, light digital projects from IIIF collections and manifests. Canopy IIIF helps libraries, archives, museums, and researchers add narrative context to IIIF material without worrying about derivatives or storage. Author in Markdown, publish static sites, and keep maintenance low while showcasing interoperable collections.
 
-**Starting fresh?** Follow the Get Started guide and build from https://github.com/canopy-iiif/template. This `app` repo is reserved for core Canopy development and documentation and should not be cloned for digital projects.
+**This project has moved to the [nulib-ds](https://github.com/nulib-ds) organization.** Development, documentation, and the starter template now live there.
 
-- **[Documentation](https://canopy-iiif.github.io/app/)**
-- **[Get Started](https://canopy-iiif.github.io/app/about/get-started)**
-- **[Template](https://github.com/canopy-iiif/template)**
+- **[Documentation](https://nulib-ds.github.io/canopy/)**
+- **[Get Started](https://nulib-ds.github.io/canopy/about/get-started)**
+- **[Source (nulib-ds/canopy)](https://github.com/nulib-ds/canopy)**
+- **[Template (nulib-ds/canopy-template)](https://github.com/nulib-ds/canopy-template)**
